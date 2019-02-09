@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.0.0-alpha.0",
+    "@vuepress/plugin-medium-zoom": "^1.0.0-alpha.0",
+    "vuepress": "^1.0.0-alpha.37"
+  },
+  "scripts": {
+    "serve": "vuepress dev docs",
+    "build": "vuepress build docs"
+  }
+}
